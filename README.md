@@ -49,3 +49,8 @@ The simulation is based on simplified neutron transport assumptions:
 ```bash
 pip install numpy matplotlib pillow
 python neutron_simulation.py
+```
+## References:
+J. R. Lamarsh - Introduction to nuclear reactor theory - Addison-Wesley
+J. B. Davison and B. Sykes - Neutron transport theory - 1958
+G. I. Bell and S. Glasston - Nuclear reactor theory - 1970
