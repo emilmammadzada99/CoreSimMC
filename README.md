@@ -43,7 +43,7 @@ The simulation is based on simplified neutron transport assumptions:
 ## 📁 Output
 
 - `neutron_physics.gif` → animated simulation result
-
+![Neutron Simulation](neutron_physics.gif)
 ## 🚀 How to Run
 
 ```bash
