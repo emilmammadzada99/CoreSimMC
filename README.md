@@ -44,6 +44,13 @@ The simulation is based on simplified neutron transport assumptions:
 
 - `neutron_physics.gif` → animated simulation result
 ![Neutron Simulation](neutron_physics.gif)
+## Neutron Monte Carlo Reflector Simulation
+
+2D Monte Carlo neutron transport model for a U-235 core with Be and Pb reflectors using ACE nuclear data.
+
+The simulation compares reflector performance by tracking neutron leakage, absorption, and scattering as reflector thickness increases.
+
+![Result](pb_be_reflector_comparis/be_pb_reflector_mc.gif)
 ## 🚀 How to Run
 
 ```bash
