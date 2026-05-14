@@ -48,7 +48,7 @@ The simulation is based on simplified neutron transport assumptions:
 
 ```bash
 pip install numpy matplotlib pillow
-python neutron_simulation.py
+python NeutronFlow.py
 ```
 ## References:
 J. R. Lamarsh - Introduction to nuclear reactor theory - Addison-Wesley
