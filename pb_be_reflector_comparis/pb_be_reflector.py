@@ -8,7 +8,7 @@ Contact:
 emilmemmedzade23@outlook.com
 egoemil32@gmail.com
 """
-from ace_xs import AceLibrary, MaterialXS
+from ace_xs_ import AceLibrary, MaterialXS
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.colors as mcolors
